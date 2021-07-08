@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinha96&count_private=true&theme=radical)
+![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinha96&count_private=true&theme=synthwave)
 
 <!--
 **sinha96/sinha96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
