@@ -11,4 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with solving complex problems 
 - 💬 Ask me about Python, Machine Learning, Data Science, General Pipeline Designing 
 - 📫 How to reach me: https://linkedin.com/in/pri-py
-
+- 📝 Checkout some of my Articles:
+    - https://inblog.in/@sinhapriyanshushekhar
+    - https://iq.opengenus.org/author/priyanshu/
