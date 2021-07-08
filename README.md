@@ -19,3 +19,7 @@ Here are some ideas to get you started:
     - [Get started with LSTM](https://iq.opengenus.org/long-short-term-memory-lstm/)
     - [LSTM practical](https://iq.opengenus.org/sentiment-analysis-in-lstm-keras/)
     - [Working with images for Deep Learning](https://iq.opengenus.org/deep-learning-on-2-dimensional-images/)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
