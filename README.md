@@ -18,6 +18,6 @@ Here are some ideas to get you started:
     - Loss Functions: https://iq.opengenus.org/types-of-loss-function/
     - Get started with LSTM: https://iq.opengenus.org/long-short-term-memory-lstm/
     - LSTM practical: https://iq.opengenus.org/sentiment-analysis-in-lstm-keras/
-    - Working with images for Deep Learning [https://iq.opengenus.org/deep-learning-on-2-dimensional-images/]
+    - [Working with images for Deep Learning] [https://iq.opengenus.org/deep-learning-on-2-dimensional-images/]
     - 
     - https://iq.opengenus.org/author/priyanshu/
