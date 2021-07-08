@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Machine Learning problems involving Natural Langugae Processing
+- 🔭 I’m currently working on Machine Learning problems involving Natural Language Processing
 - 🌱 I’m currently learning Cloud Computing
 - 👯 I’m looking to collaborate on Deep Learning solutions involving Images, Text and Speech
 - 🤔 I’m looking for help with solving complex problems 
