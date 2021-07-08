@@ -21,5 +21,6 @@ Here are some ideas to get you started:
     - [Working with images for Deep Learning](https://iq.opengenus.org/deep-learning-on-2-dimensional-images/)
 
 
-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinha96&count_private=true)
+![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinha96&count_private=true&theme=radical)
+
 
