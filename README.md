@@ -1,5 +1,8 @@
 ### Hi there 👋
-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinha96&count_private=true&theme=cobalt&gb_color=Gradient)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinha96&langs_count=8&layout=compact)](https://github.com/sinha96/github-readme-stats)
+![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinha96&count_private=true&theme=cobalt&gb_color=Gradient)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sinha96&theme=dark)](https://git.io/streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinha96&langs_count=8&layout=compact)](https://github.com/sinha96/github-readme-stats)
 
 <!--
 **sinha96/sinha96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
