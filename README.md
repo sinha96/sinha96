@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Deep Learning solutions involving Images, Text and Speech
 - 🤔 I’m looking for help with solving complex problems 
 - 💬 Ask me about Python, Machine Learning, Data Science, General Pipeline Designing 
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/pri-py)
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/pri-py), [Portfolio](https://sinha96.github.io)
 - 📝 Checkout some of my Articles:
     - [Get started with CNN](https://inblog.in/Convolution-Neural-Network-AIKFjDUgt4)
     - [Get started with PyTorch](https://inblog.in/First-Model-in-PyTorch-ot2svUjENF)
