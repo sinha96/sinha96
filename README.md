@@ -24,6 +24,9 @@ Here are some ideas to get you started:
     - [LSTM practical](https://iq.opengenus.org/sentiment-analysis-in-lstm-keras/)
     - [Working with images for Deep Learning](https://iq.opengenus.org/deep-learning-on-2-dimensional-images/)
 
-
-
-
+<h3>Tech Stack</h3>
+<ul>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="100px" height="100px">
+    <img src="https://pandas.pydata.org/docs/_static/pandas.svg" width="100px" Height="100px">
+    <img src="https://numpy.org/images/logo.svg" width="100px" height="100px">
+</ul>
