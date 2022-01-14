@@ -25,8 +25,15 @@ Here are some ideas to get you started:
     - [Working with images for Deep Learning](https://iq.opengenus.org/deep-learning-on-2-dimensional-images/)
 
 <h3>Tech Stack</h3>
-<ul>
+<p>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="100px" height="100px">
     <img src="https://pandas.pydata.org/docs/_static/pandas.svg" width="100px" Height="100px">
     <img src="https://numpy.org/images/logo.svg" width="100px" height="100px">
-</ul>
+    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="100px" width="100px">
+    <img src="https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png" height="100px" width="200px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png" height="100px" witdh="100px">
+    <img src="https://pytorch.org/assets/images/pytorch-logo.png" height="100px" witdh="100px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" height="100px" witdh="100px">
+    <img src="https://pbs.twimg.com/profile_images/1473756532827246593/KRgw2UkV_400x400.jpg" height="100px" witdh="100px">
+    <img src="https://brandslogos.com/wp-content/uploads/images/heroku-logo-vector.svg" height="100px" witdh="100px">
+</p>
