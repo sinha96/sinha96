@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsinha96&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)</br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsinha96&count_bg=%2379C83D&title_bg=%23555555&icon=awesomelists.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+</br>
 ![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinha96&count_private=true&theme=cobalt&gb_color=Gradient)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sinha96&theme=dark)](https://git.io/streak-stats)
 <br>
